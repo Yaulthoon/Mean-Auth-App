@@ -2,9 +2,9 @@
 Simple app that allows users to register to your database and displays the relevant data underneath the profile page.
 
 ## Created by following Brad Traversy's MEAN stack tutorial on YouTube.
-#### Link to the YouTube series\
+#### Link to the YouTube series
 https://www.youtube.com/watch?v=uONz0lEWft0&list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ&index=1.
-#### Link to original repository\
+#### Link to original repository
 https://github.com/bradtraversy/meanauthapp.
 
 ### Notes
